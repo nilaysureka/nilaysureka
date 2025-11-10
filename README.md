@@ -23,12 +23,12 @@
 
 
 <div align="center">
-  <h3>Languages & Tools<h3/>
+  <h2>Languages & Tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,bash,javascript,typescript,solidity,powershell,octave,matlab,git,mongodb,mysql,sqlite,postgresql,vite,webpack,postman,regex,remix,nodejs&perline=12" />
   </a>
 <br/>
-  <h3>Frameworks & Libraries<h3/>
+  <h2>Frameworks & Libraries</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,django,express,tailwind,bootstrap,nodejs,jest,firebase,vite,tensorflow,pytorch,express&perline=13" />
   </a>
@@ -55,16 +55,15 @@
 <br/>
 --->
 
-  <h3>Would Love to Learn </h3>
+  <h2>Would Love to Learn </h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,rust,ruby,prisma,redis,supabase&perline=10" />
   </a>
 <br/>
-<h3> Additional </h3>
+<h2> Additional </h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,linux,arduino,vscode,windows,raspberrypi,selenium&perline=7" />
   </a>
-<br/>
 
 <!---
 nilaysureka/nilaysureka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
